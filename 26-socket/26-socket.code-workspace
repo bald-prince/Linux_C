@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"unistd.h": "c",
+			"cstdlib": "c",
+			"display.h": "c",
+			"socket.h": "c",
+			"types.h": "c",
+			"function.h": "c"
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "camera",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/home/ycl/linux/IMX6/linux_c/camera/bin/camera",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath":"/home/ycl/linux/IMX6/linux_c/arm-linux-gnueabihf-gdb",
+            "miDebuggerServerAddress": "192.168.0.50:2001"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-gcc ./src/*.c -o ./bin/exam_2 -I ./inc/ 

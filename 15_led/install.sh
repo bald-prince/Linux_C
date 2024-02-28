@@ -1,0 +1,1 @@
+${CC} ./src/*.c -o ./bin/ledApp -I ./inc/ 
